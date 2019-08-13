@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var n = (10, 10);
+  var n = (10);
 }
