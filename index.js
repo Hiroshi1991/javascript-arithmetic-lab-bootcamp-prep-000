@@ -35,5 +35,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  return (n, 2.222)
+  return (n, 8)
 }
