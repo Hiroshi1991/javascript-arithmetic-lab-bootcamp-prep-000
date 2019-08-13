@@ -39,5 +39,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  return (2.222, 2.222)
+  return ('ff2', 2.222)
 }
