@@ -39,5 +39,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  return (n, 'sldkjflksjf')
+  return (2.222, 'sldkjflksjf')
 }
